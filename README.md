@@ -1,5 +1,6 @@
 ### Olá, Sou o Vinícius Leal 🖖
-- 💻 Ando Estudando Java, Php com Laravel e Java Script com Vue JS;
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Estudando Java, Php com Laravel e Java Script com Vue JS;
 - 💼 Estou buscando uma vaga de Desenvolvedor Jr;
 
 
