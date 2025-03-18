@@ -2,7 +2,7 @@
 Olá, Sou o Vinícius Leal 🖖
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Estudando Java, Php com Laravel e Java Script com Vue JS;
+💻 Estudando Java, Php com Laravel, JavaScript e Vue JS;
 
 
 <div style="display: inline_block"><br>
