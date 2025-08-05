@@ -8,7 +8,7 @@ Sou um entusiasta da tecnologia e estudante de <strong>Análise e Desenvolviment
 📊 Minhas Estatísticas no GitHub
 
 ![vinicius leal GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusl17&show_icons=true&theme=merko)
-<img height="200em" align="right" alt="Mario" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
+<img height="180em" align="right" alt="Mario" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
 💻 Tecnologias e Ferramentas:
 <div style="display: inline_block">
