@@ -4,12 +4,6 @@
 Sou um entusiasta da tecnologia e estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por transformar ideias em realidade através do código. Além da programação, sou músico nas horas vagas e um ávido gamer, sempre em busca de novos desafios e experiências.
 </p>
 <br>
-
-📊 Minhas Estatísticas no GitHub
-
-![vinicius leal GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusl17&show_icons=true&theme=merko)
-<img height="180em" align="right" alt="Mario" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
-
 💻 Tecnologias e Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Vini-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -20,7 +14,8 @@ Sou um entusiasta da tecnologia e estudante de <strong>Análise e Desenvolviment
   <img align="center" alt="Vini-vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">  
   <img align="center" alt="Vini-vue" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
   
-</div><br>  
+</div>
+<br>  
 
  <br> 
 
@@ -31,3 +26,14 @@ Sou um entusiasta da tecnologia e estudante de <strong>Análise e Desenvolviment
   <a href = "mailto:viniciusleal.lc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciuleal17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+<br>
+
+<br>
+
+📊 Minhas Estatísticas no GitHub
+
+![viniciusl17's Stats](https://github-readme-stats.vercel.app/api?username=viniciusl17&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+<br>
+![viniciusl17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusl17&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
+
