@@ -4,7 +4,7 @@
 Sou um entusiasta da tecnologia e estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixonado por transformar ideias em realidade através do código. Além da programação, sou músico nas horas vagas e um ávido gamer, sempre em busca de novos desafios e experiências.
 </p>
 <br>
-💻 Tecnologias e Ferramentas:
+💻 Tecnologias e Ferramentas: <p></p>
 <div style="display: inline_block">
   <img align="center" alt="Vini-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="Vini-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
